@@ -1,9 +1,9 @@
-### 👋 Hi, I'm Mike
+### 👋 Hi, I'm Michael
 
-- 🌱 I’m currently learning building android apps.
-- ⚡ Fun fact:  Learning Japanese is fun, find me on Duolingo
-<a href="https://www.duolingo.com/profile/010601exe?via=share_profile"><img src="https://d35aaqx5ub95lt.cloudfront.net/images/duolingo-touch-icon2.png" alt="Duo" width="40px"/></a>
-<br></br>
+- 🌱 I’m currently learning to build android apps.
+- ⚡ Fun fact: Find me on Duolingo
+<a href="https://www.duolingo.com/profile/010601exe?via=share_profile" target="_blank"><img src="https://d35aaqx5ub95lt.cloudfront.net/images/duolingo-touch-icon2.png" alt="Duo" width="40px"/></a>
+<br>
 
 ### 💼 Technical Skills
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -29,10 +29,11 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ### 🤝 Connect with me
-<a href="https://www.linkedin.com/in/vun-jun-ye-ba488b227/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<br></br>
+<a href="https://www.linkedin.com/in/vun-jun-ye-ba488b227/" target="_blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<br>
+
 ### 📝
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikeexe2&layout=compact&theme=gruvbox_light&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-master-mikeexe2s-projects.vercel.app/api/top-langs/?username=Mikeexe2&layout=compact&theme=gruvbox_light&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Mikeexe2's GitHub stats](https://github-readme-stats-git-master-mikeexe2s-projects.vercel.app/api?username=Mikeexe2&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
