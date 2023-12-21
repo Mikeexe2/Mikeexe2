@@ -33,9 +33,9 @@
 <br>
 
 ### 📝
-<img align="left" alt="GitHub Lang" src="https://github-readme-stats-git-master-mikeexe2s-projects.vercel.app/api/top-langs/?username=Mikeexe2&layout=compact&theme=gruvbox_light&locale=en" />
+<img align="left" alt="GitHub Lang" src="https://github-readme-stats-vzyx.vercel.app/api/top-langs/?username=Mikeexe2&layout=compact&theme=gruvbox_light&locale=en" />
 
-<img align="right" alt="GitHub Stats" src="https://github-readme-stats-git-master-mikeexe2s-projects.vercel.app/api?username=Mikeexe2&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img align="right" alt="GitHub Stats" src="https://github-readme-stats-vzyx.vercel.app/api?username=Mikeexe2&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 ![Media](https://komarev.com/ghpvc/?username=Mikeexe2&style=flat-square)
 <br>
