@@ -34,7 +34,7 @@
 ### 📝
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikeexe2&layout=compact&theme=gruvbox_light&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
-![Mikeexe2's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mikeexe2&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Mikeexe2's GitHub stats](https://github-readme-stats-git-master-mikeexe2s-projects.vercel.app/api?username=Mikeexe2&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ![Media](https://komarev.com/ghpvc/?username=Mikeexe2&style=flat-square)
 <br>
