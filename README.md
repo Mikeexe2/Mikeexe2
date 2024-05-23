@@ -1,6 +1,6 @@
-### 👋 Hi, I'm Michael
+### 👋 Hi,
 
-- 🌱 I’m currently learning to build android apps.
+- i'm currently learning to build android apps.
 - ⚡ Fun fact: Find me on Duolingo
 <a href="https://www.duolingo.com/profile/010601exe?via=share_profile" target="_blank"><img src="https://d35aaqx5ub95lt.cloudfront.net/images/duolingo-touch-icon2.png" alt="Duo" width="40px"/></a>
 <br>
@@ -28,15 +28,11 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-### 🤝 Connect with me
-<a href="https://www.linkedin.com/in/vun-jun-ye-ba488b227/" target="_blank"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<br>
-
 ### 📝
-<img align="left" alt="GitHub Lang" src="https://github-readme-stats-vzyx.vercel.app/api/top-langs/?username=Mikeexe2&layout=compact&theme=gruvbox_light&locale=en" />
-
-<img align="right" alt="GitHub Stats" src="https://github-readme-stats-vzyx.vercel.app/api?username=Mikeexe2&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikeexe2&layout=compact&theme=gruvbox_light&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Mikeexe2&count_private=true&show_icons=true&include_all_commits=true)
+<br>
 ![Media](https://komarev.com/ghpvc/?username=Mikeexe2&style=flat-square)
 <br>
 ![Media](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{Mikeexe2}1212%2Fhit-counter)
