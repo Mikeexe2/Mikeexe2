@@ -1,8 +1,8 @@
 ### 👋 Hi,
 
-- i'm currently learning to build android apps.
+- I'm currently learning to build android apps.
 - ⚡ Fun fact: Find me on Duolingo
-<a href="https://www.duolingo.com/profile/010601exe?via=share_profile" target="_blank"><img src="https://d35aaqx5ub95lt.cloudfront.net/images/duolingo-touch-icon2.png" alt="Duo" width="40px"/></a>
+<a href="https://www.duolingo.com/profile/010601exe?via=share_profile" target="_blank"><img src="https://d35aaqx5ub95lt.cloudfront.net/images/duolingo-touch-icon2.png" alt="Duo" height = 30px, width="30px"/></a>
 <br>
 
 ### 💼 Technical Skills
@@ -29,9 +29,9 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ### 📝
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikeexe2&layout=compact&theme=gruvbox_light&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-mikeexe2.vercel.app/api/top-langs/?username=Mikeexe2&layout=compact&theme=gruvbox_light&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Mikeexe2&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-stats-mikeexe2.vercel.app/api?username=Mikeexe2&count_private=true&show_icons=true&include_all_commits=true)
 <br>
 ![Media](https://komarev.com/ghpvc/?username=Mikeexe2&style=flat-square)
 <br>
